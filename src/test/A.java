@@ -8,7 +8,7 @@ package test;
     }
     void met1()
     {
-        System.out.println("met1 in A");
+        System.out.println("met1 in Ass");
     }
     void met2()
     {
